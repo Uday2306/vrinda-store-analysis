@@ -85,7 +85,7 @@ An interactive **Excel Dashboard** was created to visualize key insights.
 ---
 
 ## 🖼 Dashboard Preview  
-![Dashboard](Output-1.jpg)  
+![Dashboard](https://github.com/Uday2306/vrinda-store-analysis/blob/main/Output-1.png)  
 
 ---
 
@@ -104,3 +104,4 @@ This dashboard can help the business in:
 - 🌍 Regional sales strategy  
 
 ---
+
